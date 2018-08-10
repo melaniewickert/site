@@ -107,47 +107,19 @@ a img {
 	border: 0;
 }
 
-/*--------------------------------------------------------------
-Structure
---------------------------------------------------------------*/
-header {
-	width: 100%;
-	padding: 4rem;
-	text-align: center;
-}
-
-main {
-	max-width: 90%;
-	margin: 3rem auto;
-}
-
-article {
-	margin-bottom: 2rem;
-	padding-bottom: 2rem;
-	border-bottom: 1px solid #aaa;
-}
-
-/*--------------------------------------------------------------
-typography
---------------------------------------------------------------*/
 body {
+	text-align: center;
+	background: #22c1c3;
+	font-family: "Helvetica", "Verdana", sans-serif;
+	color: white;
 	font-size: 1.6rem;
-	font-family: "Verdana", sans-serif;
-	font-weight: 100;
-	line-height: 2.4rem;
-	color: #444;
+	margin-top: 20rem;
+	height: 100%;
 }
 
 h1 {
 	font-size: 3rem;
-	letter-spacing: 4px;
+	letter-spacing: 3px;
 	font-weight: 100;
 	margin-bottom: 1rem;
-	color: #22c1c3;
-}
-
-h2 {
-	font-size: 2.2rem;
-	margin-bottom: 1rem;
-	color: #22c1c3;
 }

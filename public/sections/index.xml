@@ -6,7 +6,7 @@
     <description>Recent content in Sections on MelanieWickert.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Aug 2018 13:59:41 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 05 Aug 2018 18:59:41 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/sections/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,11 @@
     <item>
       <title>About</title>
       <link>http://example.org/sections/about/</link>
-      <pubDate>Sun, 05 Aug 2018 13:59:41 -0500</pubDate>
+      <pubDate>Sun, 05 Aug 2018 18:59:41 +0000</pubDate>
       
       <guid>http://example.org/sections/about/</guid>
-      <description>Test content here</description>
+      <description>Test content here
+This is content that I added on Netlify</description>
     </item>
     
   </channel>
