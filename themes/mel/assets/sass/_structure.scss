@@ -1,16 +1,40 @@
 header {
 	width: 100%;
-	padding: 4rem;
+	padding: 7rem;
 	text-align: center;
 }
 
 main {
-	max-width: 90%;
+	display: block;
+	max-width: 700px;
 	margin: 3rem auto;
 }
 
 article {
+	display: flex;
+	flex-wrap: wrap;
 	margin-bottom: 2rem;
 	padding-bottom: 2rem;
-	border-bottom: 1px solid #aaa;
+}
+
+.title-box {
+	flex: 0 0 auto;
+	width: 100px;
+}
+.content-box {
+	flex: 0 0 auto;
+	max-width: 600px;
+	padding-bottom: 2rem;
+	border-bottom: 1px solid #22c1c3;;
+}
+
+@media screen and (max-width: 710px) {
+	main {
+		max-width: 90%;
+		margin: 1rem auto;
+	}
+	article {
+		display: block;
+	}
+	
 }
