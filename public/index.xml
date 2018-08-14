@@ -2,23 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on MelanieWickert.de</title>
-    <link>http://example.org/</link>
+    <link>http://melaniewickert.de/</link>
     <description>Recent content in Home on MelanieWickert.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Aug 2018 10:33:41 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://melaniewickert.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/sections/about/</link>
+      <link>http://melaniewickert.de/sections/about/</link>
       <pubDate>Sun, 05 Aug 2018 18:59:41 +0000</pubDate>
       
-      <guid>http://example.org/sections/about/</guid>
-      <description>Test content here
-This is content that I added on Netlify</description>
+      <guid>http://melaniewickert.de/sections/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at commodo magna, at lacinia mi. Morbi viverra faucibus fringilla. Etiam ex velit, mollis quis neque sit amet, suscipit malesuada sapien. Phasellus quis ex fermentum, bibendum ante quis, vestibulum metus. Vestibulum condimentum eros vel eleifend commodo. Etiam scelerisque blandit tellus, vel sodales urna eleifend accumsan. Vivamus mattis nibh et nisi molestie hendrerit. Cras dictum sit amet nibh et commodo. In hac habitasse platea dictumst.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://melaniewickert.de/sections/education/</link>
+      <pubDate>Fri, 10 Aug 2018 10:53:05 -0500</pubDate>
+      
+      <guid>http://melaniewickert.de/sections/education/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at commodo magna, at lacinia mi. Morbi viverra faucibus fringilla. Etiam ex velit, mollis quis neque sit amet, suscipit malesuada sapien. Phasellus quis ex fermentum, bibendum ante quis, vestibulum metus. Vestibulum condimentum eros vel eleifend commodo. Etiam scelerisque blandit tellus, vel sodales urna eleifend accumsan. Vivamus mattis nibh et nisi molestie hendrerit. Cras dictum sit amet nibh et commodo. In hac habitasse platea dictumst.</description>
+    </item>
+    
+    <item>
+      <title>Masters Thesis</title>
+      <link>http://melaniewickert.de/sections/masters/</link>
+      <pubDate>Fri, 10 Aug 2018 10:53:28 -0500</pubDate>
+      
+      <guid>http://melaniewickert.de/sections/masters/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at commodo magna, at lacinia mi. Morbi viverra faucibus fringilla. Etiam ex velit, mollis quis neque sit amet, suscipit malesuada sapien. Phasellus quis ex fermentum, bibendum ante quis, vestibulum metus. Vestibulum condimentum eros vel eleifend commodo. Etiam scelerisque blandit tellus, vel sodales urna eleifend accumsan. Vivamus mattis nibh et nisi molestie hendrerit. Cras dictum sit amet nibh et commodo. In hac habitasse platea dictumst.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>http://melaniewickert.de/sections/skills/</link>
+      <pubDate>Fri, 10 Aug 2018 10:53:38 -0500</pubDate>
+      
+      <guid>http://melaniewickert.de/sections/skills/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at commodo magna, at lacinia mi. Morbi viverra faucibus fringilla. Etiam ex velit, mollis quis neque sit amet, suscipit malesuada sapien. Phasellus quis ex fermentum, bibendum ante quis, vestibulum metus. Vestibulum condimentum eros vel eleifend commodo. Etiam scelerisque blandit tellus, vel sodales urna eleifend accumsan. Vivamus mattis nibh et nisi molestie hendrerit. Cras dictum sit amet nibh et commodo. In hac habitasse platea dictumst.</description>
     </item>
     
   </channel>
