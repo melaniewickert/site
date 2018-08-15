@@ -123,3 +123,8 @@ h1 {
 	font-weight: 100;
 	margin-bottom: 1rem;
 }
+
+footer {
+	text-align: center;
+	margin: 3rem;
+}
