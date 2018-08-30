@@ -118,7 +118,7 @@ header {
 
 main {
 	display: block;
-	max-width: 700px;
+	max-width: 900px;
 	margin: 3rem auto;
 }
 
@@ -143,12 +143,31 @@ article {
 	-webkit-box-flex: 0;
 	    -ms-flex: 0 0 auto;
 	        flex: 0 0 auto;
-	max-width: 600px;
+	max-width: 800px;
 	padding-bottom: 2rem;
 	border-bottom: 1px solid #22c1c3;
 }
 
-@media screen and (max-width: 710px) {
+figure {
+	margin: 0;
+}
+
+.alignleft {
+	width: auto;
+	margin: 0 2rem 2rem 0;
+	float: left;
+}
+
+@media screen and (max-width: 500px) {
+	.alignleft {
+		width: 100%;
+		text-align: center;
+		margin: 0 auto;
+		float: none;
+	}
+}
+
+@media screen and (max-width: 900px) {
 	main {
 		max-width: 90%;
 		margin: 1rem auto;
@@ -189,6 +208,10 @@ h2 {
 	text-transform: uppercase;
 }
 
+p {
+	margin-bottom: 1rem;
+}
+
 .site-title {
 	font-size: 3rem;
 	letter-spacing: 4px;
@@ -197,7 +220,7 @@ h2 {
 	color: #22c1c3;
 }
 
-@media screen and (max-width: 710px) {
+@media screen and (max-width: 900px) {
 	.site-title {
 		font-size: 2rem;
 		letter-spacing: 2px;
@@ -212,4 +235,8 @@ a:visited {
 
 a:hover {
 	color: orange;
+}
+
+.content-box ul {
+	list-style: initial;
 }

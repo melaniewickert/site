@@ -21,6 +21,10 @@ h2 {
 	text-transform: uppercase;
 }
 
+p {
+	margin-bottom: 1rem;
+}
+
 .site-title {
 	font-size: 3rem;
 	letter-spacing: 4px;
@@ -29,7 +33,7 @@ h2 {
 	color: #22c1c3;
 }
 
-@media screen and (max-width: 710px) {
+@media screen and (max-width: 900px) {
 	.site-title {
 		font-size: 2rem;
 		letter-spacing: 2px;
@@ -44,4 +48,8 @@ h2 {
 
 	a:hover {
 		color: orange;
+	}
+
+	.content-box ul {
+		list-style: initial;
 	}
