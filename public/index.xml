@@ -12,29 +12,38 @@
     
     
     <item>
-      <title>About</title>
-      <link>http://melaniewickert.de/about/</link>
-      <pubDate>Sun, 05 Aug 2018 18:59:41 +0000</pubDate>
-      
-      <guid>http://melaniewickert.de/about/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at commodo magna, at lacinia mi. Morbi viverra faucibus fringilla. Etiam ex velit, mollis quis neque sit amet, suscipit malesuada sapien. Phasellus quis ex fermentum, bibendum ante quis, vestibulum metus. Vestibulum condimentum eros vel eleifend commodo. Etiam scelerisque blandit tellus, vel sodales urna eleifend accumsan. Vivamus mattis nibh et nisi molestie hendrerit. Cras dictum sit amet nibh et commodo. In hac habitasse platea dictumst.</description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>http://melaniewickert.de/sections/education/</link>
-      <pubDate>Fri, 10 Aug 2018 10:53:05 -0500</pubDate>
-      
-      <guid>http://melaniewickert.de/sections/education/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at commodo magna, at lacinia mi. Morbi viverra faucibus fringilla. Etiam ex velit, mollis quis neque sit amet, suscipit malesuada sapien. Phasellus quis ex fermentum, bibendum ante quis, vestibulum metus. Vestibulum condimentum eros vel eleifend commodo. Etiam scelerisque blandit tellus, vel sodales urna eleifend accumsan. Vivamus mattis nibh et nisi molestie hendrerit. Cras dictum sit amet nibh et commodo. In hac habitasse platea dictumst.</description>
-    </item>
-    
-    <item>
-      <title>Masters Thesis</title>
-      <link>http://melaniewickert.de/sections/masters/</link>
+      <title>Masters Project</title>
+      <link>http://melaniewickert.de/masters/</link>
       <pubDate>Fri, 10 Aug 2018 10:53:28 -0500</pubDate>
       
-      <guid>http://melaniewickert.de/sections/masters/</guid>
+      <guid>http://melaniewickert.de/masters/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at commodo magna, at lacinia mi. Morbi viverra faucibus fringilla. Etiam ex velit, mollis quis neque sit amet, suscipit malesuada sapien. Phasellus quis ex fermentum, bibendum ante quis, vestibulum metus. Vestibulum condimentum eros vel eleifend commodo. Etiam scelerisque blandit tellus, vel sodales urna eleifend accumsan. Vivamus mattis nibh et nisi molestie hendrerit. Cras dictum sit amet nibh et commodo. In hac habitasse platea dictumst.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://melaniewickert.de/sections/about/</link>
+      <pubDate>Sun, 05 Aug 2018 18:59:41 +0000</pubDate>
+      
+      <guid>http://melaniewickert.de/sections/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at commodo magna, at lacinia mi. Morbi viverra faucibus fringilla. Etiam ex velit, mollis quis neque sit amet, suscipit malesuada sapien. Phasellus quis ex fermentum, bibendum ante quis, vestibulum metus. Vestibulum condimentum eros vel eleifend commodo. Etiam scelerisque blandit tellus, vel sodales urna eleifend accumsan. Vivamus mattis nibh et nisi molestie hendrerit. Cras dictum sit amet nibh et commodo. In hac habitasse platea dictumst.</description>
+    </item>
+    
+    <item>
+      <title>Interests</title>
+      <link>http://melaniewickert.de/sections/interests/</link>
+      <pubDate>Thu, 30 Aug 2018 12:03:29 +0200</pubDate>
+      
+      <guid>http://melaniewickert.de/sections/interests/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at commodo magna, at lacinia mi. Morbi viverra faucibus fringilla. Etiam ex velit, mollis quis neque sit amet, suscipit malesuada sapien. Phasellus quis ex fermentum, bibendum ante quis, vestibulum metus. Vestibulum condimentum eros vel eleifend commodo. Etiam scelerisque blandit tellus, vel sodales urna eleifend accumsan. Vivamus mattis nibh et nisi molestie hendrerit. Cras dictum sit amet nibh et commodo. In hac habitasse platea dictumst.</description>
+    </item>
+    
+    <item>
+      <title>Bachelors Work</title>
+      <link>http://melaniewickert.de/bachelors/</link>
+      <pubDate>Fri, 10 Aug 2018 10:53:05 -0500</pubDate>
+      
+      <guid>http://melaniewickert.de/bachelors/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at commodo magna, at lacinia mi. Morbi viverra faucibus fringilla. Etiam ex velit, mollis quis neque sit amet, suscipit malesuada sapien. Phasellus quis ex fermentum, bibendum ante quis, vestibulum metus. Vestibulum condimentum eros vel eleifend commodo. Etiam scelerisque blandit tellus, vel sodales urna eleifend accumsan. Vivamus mattis nibh et nisi molestie hendrerit. Cras dictum sit amet nibh et commodo. In hac habitasse platea dictumst.</description>
     </item>
     
