@@ -1,5 +1,5 @@
 ---
-title: "Bachelor Work"
+title: "Bachelors Degree"
 date: 2018-08-10T10:53:05-05:00
 menu: "main"
 draft: false
