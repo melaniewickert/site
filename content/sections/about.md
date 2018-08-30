@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2018-08-05T18:59:41.000Z
+type: "static"
 draft: false
 weight: 1
 ---

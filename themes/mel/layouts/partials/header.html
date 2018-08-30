@@ -3,5 +3,13 @@
 	{{ partial "head.html" . }}
 	<body>
 		<header>
-			<div class="site-title">melaniewickert.de</div>
+			<div class="site-title"><a href="/sections" alt="Home Page">Melanie Wickert</a></div>
+			<nav class="navigation">
+					<ul class="menu">
+						{{ range .Site.Menus.main }}
+							<li><a href="{{ .URL | relURL }}">{{ .Name }}{{ .Pre }}</a></li>
+						{{ end }}
+					</ul>
+				</nav>
 		</header>
+		<main>
