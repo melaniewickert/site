@@ -1,6 +1,6 @@
 header {
 	width: 100%;
-	padding: 7rem;
+	padding: 7rem 0 3rem;
 	text-align: center;
 }
 
@@ -29,7 +29,32 @@ article {
 }
 
 figure {
+	margin: 1rem 0;
+}
+
+video {
 	margin: 0;
+}
+
+figcaption {
+	color: #ccc;
+	font-size: 1rem;
+	text-align: right;
+}
+
+.full-width {
+	display: block;
+	position: relative;
+	margin: 1rem auto 2rem;
+	width: 100%;
+
+	img {
+		width: 100%;
+	}
+
+	video {
+		width: 100%;
+	}
 }
 
 .alignleft {

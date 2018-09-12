@@ -8,6 +8,7 @@ body {
 
 h1 {
 	font-size: 3rem;
+	line-height: 3.6rem;
 	letter-spacing: 4px;
 	font-weight: 100;
 	margin-bottom: 1rem;
@@ -25,6 +26,10 @@ p {
 	margin-bottom: 1rem;
 }
 
+em {
+	font-style: italic;
+}
+
 .site-title {
 	font-size: 3rem;
 	letter-spacing: 4px;
@@ -40,16 +45,27 @@ p {
 	}
 	}
 
-	a,
-	a:visited {
-		color: #22c1c3;
-		text-decoration: none;
-	}
+a,
+a:visited {
+	color: #22c1c3;
+	text-decoration: none;
+}
 
-	a:hover {
-		color: orange;
-	}
+a:hover {
+	color: orange;
+}
 
-	.content-box ul {
-		list-style: initial;
+.content-box ul,
+main ul {
+	list-style: initial;
+}
+
+.about {
+	color: #22c1c3;
+	font-size: 2rem;
+	line-height: 2.8rem;
+
+	a {
+		text-decoration: underline;
 	}
+}
