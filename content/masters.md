@@ -1,8 +1,7 @@
 ---
-title: "Masters Project"
-date: 2018-08-10T10:53:28-05:00
-menu: "main"
-draft: false
+title: Masters Project
+date: 2018-08-10T15:53:28.000Z
+menu: main
 weight: 1
 ---
 # The effect of relatedness on group and community structure in Tanganyikan cichlids
@@ -13,7 +12,7 @@ weight: 1
 		Sorry, your browser doesn't support HTML5 video.
 </video>
 
-For my Master’s thesis I investigated how the genetic relatedness of individuals influences group interactions and community structure in a social cichlid species endemic to Lake Tanganyika in Zambia. I looked at group living and nest building behaviours in *Neolamprologus multifasciatus*, the smallest cichlid species in the world, and endemic to Lake Tanganyika. _N. multifasciatus_ live in small groups in close proximity to each other, usually separated by sand ridges. These nests can form large communities, which spread numerous meters in all directions and consist of uncovered gastropod shells that, dug out of the sediment in very specific behaviour, are used as shelters and breeding chambers. The uncovered shells, separated by sand, then create a distinct cratered landscape referred to as the shell bed.
+For my Master’s thesis I investigated how the genetic relatedness of individuals influences group interactions and community structure in a social cichlid species endemic to Lake Tanganyika in Zambia. I looked at group living and nest building behaviours in _Neolamprologus multifasciatus_, the smallest cichlid species in the world, and endemic to Lake Tanganyika. _N. multifasciatus_ live in small groups in close proximity to each other, usually separated by sand ridges. These nests can form large communities, which spread numerous meters in all directions and consist of uncovered gastropod shells that, dug out of the sediment in very specific behaviour, are used as shelters and breeding chambers. The uncovered shells, separated by sand, then create a distinct cratered landscape referred to as the shell bed.
 
 However, the genetic and demographic structure and composition of these groups had not been previously determined, and so an important piece of our understanding of their behaviour and the interactions between individuals was missing. Without taking their relatedness into account, behavioural traits can be misinterpreted or even missed completely, because individuals not showing aggressive interaction or displays may simply be explained by the relationship between individuals.
 
@@ -34,9 +33,10 @@ To answer the question about relatedness of individuals within groups and commun
 Unfortunately due to a limited budget and time, only one of the eight communities could be analysed, and therefore the results have to be handled with care, but once processed this data has great potential in helping to understand not only how individuals in these nests and communities are related but also how they disperse and how they behave.
 
 Practical Courses:
-Human and Environmental toxicology investigating the reaction of kidney cells to drug compounds and their expression of functional cation transporters
-Dynamics of Aquatic Ecosystems investigating surface currents in the lower Lake Constance
-Behavioural Neurobiology investigating effects of restraining and grooming on associative learning and olfactory perception in _Apis mellifera_
+
+* Human and Environmental toxicology investigating the reaction of kidney cells to drug compounds and their expression of functional cation transporters
+* Dynamics of Aquatic Ecosystems investigating surface currents in the lower Lake Constance
+* Behavioural Neurobiology investigating effects of restraining and grooming on associative learning and olfactory perception in _Apis mellifera_
 
 Final module:
 
