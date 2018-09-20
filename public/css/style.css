@@ -123,6 +123,7 @@ main {
 	display: block;
 	max-width: 900px;
 	margin: 3rem auto;
+	overflow: auto;
 }
 
 article {
@@ -326,8 +327,9 @@ a:hover {
 
 .content-box ul,
 main ul {
-	list-style: initial;
+	list-style: disc;
 	margin-bottom: 1.6rem;
+	margin-left: 2rem;
 }
 
 .about {
