@@ -123,6 +123,7 @@ main {
 	display: block;
 	max-width: 900px;
 	margin: 3rem auto;
+	overflow: auto;
 }
 
 article {
@@ -293,6 +294,10 @@ h2 {
 
 p {
 	margin-bottom: 1rem;
+}
+
+p:empty {
+	display: none;
 }
 
 em {

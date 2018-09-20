@@ -19,7 +19,7 @@ For my Master’s thesis I investigated how the genetic relatedness of individua
 
 However, the genetic and demographic structure of these groups and their composition had not been previously determined, and so an important piece of our understanding of their behaviour and the interactions between individuals was missing. Without taking their relatedness into account, behavioural traits can be misinterpreted or even missed completely, because individuals not showing aggressive interaction or displays may simply be explained by the relationship between individuals.
 
-{{< figure src="/img/uploads/masters-a1.png" class="full-width" caption="Colour-coded movement tracks of individuals in the four-camera array, individual distribution of fish within nests, and distance from the nest edge of males and females." >}}
+{{< figure src="/img/uploads/masters-a1.png" class="full-width" caption="Colour-coded movement tracks of individuals in the four-camera array, individual distribution of fish within nests, and distance from the nest edge of males and females" >}}
 
 Data was collected from September through November 2017 along the Zambian coast of Lake Tanganyika while SCUBA diving. Behavioural footage and shell bed patterning were collected from seventeen communities at three different dive locations, with tissue samples taken from eight of those communities. During tissue collection, individuals were photographed for further identification in behavioural recordings using the unique vertical bar pattern that characterises this species.
 

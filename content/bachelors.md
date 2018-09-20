@@ -7,7 +7,7 @@ weight: 2
 ---
 # Cytokine production of B cells in patients with variable immune deficiency
 
-{{< figure src="/img/uploads/cytokines.png" class="full-width" caption="B Cell subpopulations of a healthy donor (left) and a CVID patient showing CD21low B cells (right)" >}}
+{{< figure src="/img/uploads/cytokines.png" class="full-width" caption="B cell subpopulations of a healthy donor (left) and a CVID patient showing CD21low B cells (right)" >}}
 
 For my Bachelor’s project, I investigated the Cytokine production of B cells, especially of CD21low B cells, in a subgroup of patients with common variable immune deficiency (CVID). CVID is the most common primary immune deficiency in adults, and is characterised by recurrent infections, low antibody levels in at least two immunoglobulin types, and immune dysregulation. Some CVID patients have an extraordinary expansion of an unusual B cell population characterised by the low expression of CD21. CD21low B cells occur in the peripheral blood as well as inflammatory tissue. They are polyclonal unmutated IgM(+)IgD(+) B cells, which differ in their distinct gene expression profile from conventional naive B cells. This subpopulation of B cells is nonexistent in healthy or other CVID patients and the function of these cells is unclear.
 

@@ -1,10 +1,7 @@
-</main>
 <footer role="contentinfo">
 	{{ with .Site.Params.footer }}
 	{{ . | markdownify }}
 	{{ end }}
-
 </footer>
-{{ template "_internal/google_analytics.html" . }}
 </body>
 </html>
