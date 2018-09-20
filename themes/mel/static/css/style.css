@@ -296,10 +296,6 @@ p {
 	margin-bottom: 1rem;
 }
 
-p:empty {
-	display: none;
-}
-
 em {
 	font-style: italic;
 }
