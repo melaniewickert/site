@@ -3,6 +3,7 @@ title: "Masters Project"
 date: 2018-08-10T10:53:28-05:00
 menu: "main"
 draft: false
+type: "static"
 weight: 1
 ---
 # The effect of relatedness on group and community structure in Tanganyikan cichlids

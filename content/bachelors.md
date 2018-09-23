@@ -3,6 +3,7 @@ title: "Bachelors Project"
 date: 2018-08-10T10:53:05-05:00
 menu: "main"
 draft: false
+type: "static"
 weight: 2
 ---
 # Cytokine production of B cells in patients with variable immune deficiency

@@ -301,6 +301,7 @@ em {
 }
 
 .site-title {
+	display: block;
 	font-size: 3rem;
 	letter-spacing: 4px;
 	font-weight: 100;

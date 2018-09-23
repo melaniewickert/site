@@ -3,6 +3,7 @@ title: "Contact"
 date: 2018-09-12T17:45:26+02:00
 menu: "main"
 draft: false
+type: "static"
 weight: 4
 ---
 # Get in touch
