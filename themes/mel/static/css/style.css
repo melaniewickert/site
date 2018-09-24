@@ -123,8 +123,6 @@ main {
 	display: block;
 	max-width: 900px;
 	margin: 3rem auto;
-	overflow: auto;
-	word-wrap: break-word;
 }
 
 article {
@@ -277,8 +275,9 @@ h1 {
 	line-height: 4rem;
 	letter-spacing: 4px;
 	font-weight: 100;
-	margin-bottom: 2rem;
+	margin: 2rem 0;
 	color: #22c1c3;
+	overflow: auto;
 }
 
 @media screen and (max-width: 900px) {

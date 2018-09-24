@@ -12,13 +12,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	//display: block;
 	font-size: 3.2rem;
 	line-height: 4rem;
 	letter-spacing: 4px;
 	font-weight: 100;
-	margin-bottom: 2rem;
+	margin: 2rem 0;
 	color: #22c1c3;
+	overflow: auto;
 }
 
 @media screen and (max-width: 900px) {
