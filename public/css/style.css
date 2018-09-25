@@ -123,7 +123,6 @@ main {
 	display: block;
 	max-width: 900px;
 	margin: 3rem auto;
-	overflow: auto;
 }
 
 article {
@@ -272,17 +271,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-size: 3rem;
-	line-height: 3.6rem;
+	font-size: 3.2rem;
+	line-height: 4rem;
 	letter-spacing: 4px;
 	font-weight: 100;
-	margin-bottom: 1rem;
+	margin: 2rem 0;
 	color: #22c1c3;
+	overflow: auto;
 }
 
 @media screen and (max-width: 900px) {
 	h1 {
-		font-size: 2rem;
+		font-size: 2.2rem;
 		letter-spacing: 2px;
 	}
 }

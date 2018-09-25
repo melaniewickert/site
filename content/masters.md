@@ -44,7 +44,7 @@ Unfortunately due to a limited budget and time, only one of the eight communitie
 * Dynamics of Aquatic Ecosystems investigating surface currents in the lower Lake Constance
 * Behavioural Neurobiology investigating effects of restraining and grooming on associative learning and olfactory perception in _Apis mellifera_
 
-### Final module:
+### Final Modules:
 
 * Ecotoxicology
 * Toxicology
