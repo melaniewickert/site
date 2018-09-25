@@ -8,7 +8,7 @@ weight: 1
 ---
 # The effect of relatedness on group and community structure in Tanganyikan cichlids
 
-<figure><video controls class="full-width" poster="/img/uploads/boxies.png">
+<figure><video controls autoplay loop class="full-width" poster="/img/uploads/boxies.png">
     <source src="/video/boxes.webm" type="video/webm">
 		<source src="/video/boxes.mp4" type="video/mp4">
 		Sorry, your browser doesn't support HTML5 video.
