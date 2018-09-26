@@ -26,7 +26,7 @@ Data was collected from September through November 2017 along the Zambian coast 
 
 Behavioural data was recorded via a multi-camera array, in which cameras were placed in a circular shape around the community facing inward to capture the movement of the individuals in three dimensions. Overhead images of the shell bed pattern were recorded and stitched together to create large-scale maps. From these maps I extracted the distance, orientation, and area of individual nests.
 
-{{< figure src="/img/uploads/melboot.jpg" width="300px" class="alignleft" caption="On Lake Tanganyika" >}}
+{{< figure src="/img/uploads/melboot.jpg" width="300px" class="alignleft" alt="Melanie Wickert on Lake Tanganyika" caption="On Lake Tanganyika" >}}
 
 To quantify the shell bed structure, various analysis were conducted, looking for spatial autocorrelation of size and orientation, and zones of attraction and repulsion. I found significant autocorrelation of nest orientations across the three communities analysed but no significant correlation of perimeter length, area or diameter or nests. Pairwise correlation of nest locations and Ripley’s L test suggest that there is some sort of self-organising mechanism at work but the underlying behavioural mechanism for this pattern is not yet resolved.
 
