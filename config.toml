@@ -4,5 +4,7 @@ title = "MelanieWickert.de"
 theme = "mel"
 
 [params]
-    description = "The online presence of Melanie Wickert"
 		footer = "&copy; 2018 Melanie Wickert | All rights reserved | Built with [Hugo](https://gohugo.io/) and hosted on [Netlify](https://www.netlify.com/)"
+
+[blackfriday]
+  hrefTargetBlank = true

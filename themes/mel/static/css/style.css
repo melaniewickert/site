@@ -186,12 +186,36 @@ figcaption {
 	float: left;
 }
 
+.headshot {
+	margin-top: -.5rem;
+	width: 200px;
+}
+
+.headshot img {
+	width: 100%;
+}
+
+.boatshot {
+	width: 300px;
+}
+
+.boatshot img {
+	width: 100%;
+}
+
 @media screen and (max-width: 500px) {
 	.alignleft {
 		width: 100%;
 		text-align: center;
 		margin: 0 auto;
 		float: none;
+	}
+	.headshot {
+		margin-top: 0rem;
+		width: 100%;
+	}
+	.boatshot {
+		width: 100%;
 	}
 }
 

@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 <main>
-    {{ range (where .Data.Pages "Section" "!=" "") }}
+    {{ range (where .Data.Pages "Section" "sections") }}
   	<article>
     {{/* <li>
       <span class="date">{{ .Date.Format "2006/01/02" }}</span>

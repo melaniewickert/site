@@ -5,6 +5,7 @@ menu: "main"
 draft: false
 type: "static"
 weight: 1
+meta: "For my Master’s thesis I investigated how the genetic relatedness of individuals influences group interactions and community structure in a social cichlid species."
 ---
 # The effect of relatedness on group and community structure in Tanganyikan cichlids
 

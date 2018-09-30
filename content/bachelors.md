@@ -5,6 +5,7 @@ menu: "main"
 draft: false
 type: "static"
 weight: 2
+meta: "For my Bachelor’s project, I investigated the Cytokine production of B cells, especially of CD21low B cells, in a subgroup of patients with common variable immune deficiency (CVID)."
 ---
 # Cytokine production of B cells in patients with variable immune deficiency
 
