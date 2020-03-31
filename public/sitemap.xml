@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://melaniewickert.de/masters/</loc>
+    <loc>https://melaniewickert.de/masters/</loc>
     <lastmod>2018-08-10T10:53:28-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melaniewickert.de/sections/about/</loc>
+    <loc>https://melaniewickert.de/sections/about/</loc>
     <lastmod>2018-08-05T18:59:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melaniewickert.de/sections/interests/</loc>
+    <loc>https://melaniewickert.de/sections/interests/</loc>
     <lastmod>2018-08-30T12:03:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melaniewickert.de/bachelors/</loc>
+    <loc>https://melaniewickert.de/bachelors/</loc>
     <lastmod>2018-08-10T10:53:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melaniewickert.de/sections/skills/</loc>
+    <loc>https://melaniewickert.de/sections/skills/</loc>
     <lastmod>2018-08-10T10:53:38-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melaniewickert.de/contact/</loc>
+    <loc>https://melaniewickert.de/contact/</loc>
     <lastmod>2018-09-12T17:45:26+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melaniewickert.de/</loc>
+    <loc>https://melaniewickert.de/sections/</loc>
+    <lastmod>2018-08-30T12:03:29+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://melaniewickert.de/</loc>
     <lastmod>2018-08-03T10:33:41-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://melaniewickert.de/categories/</loc>
+    <loc>https://melaniewickert.de/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://melaniewickert.de/sections/</loc>
-    <lastmod>2018-08-05T18:59:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://melaniewickert.de/tags/</loc>
+    <loc>https://melaniewickert.de/tags/</loc>
     <priority>0</priority>
   </url>
   
