@@ -4,7 +4,7 @@ title = "MelanieWickert.de"
 theme = "mel"
 
 [params]
-		footer = "&copy; 2018 Melanie Wickert | All rights reserved | Built by [Costelloe Creative](https://costelloecreative.com) with [Hugo](https://gohugo.io/) and hosted on [Netlify](https://www.netlify.com/)"
+		footer = "&copy; 2020 Melanie Wickert | All rights reserved | Built by [Costelloe Creative](https://costelloecreative.com) with [Hugo](https://gohugo.io/) and hosted on [Netlify](https://www.netlify.com/)"
 
 [blackfriday]
   hrefTargetBlank = true
